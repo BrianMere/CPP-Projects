@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/CPP-Projects.dir/CPP-Projects.cpp.o -c /home/bmere/Repositories/CPP-Projects/CPP-Projects.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/CPP-Projects.cpp"
+}
+]

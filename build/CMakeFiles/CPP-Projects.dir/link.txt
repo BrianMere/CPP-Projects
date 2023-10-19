@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCPP-Projects.a CMakeFiles/CPP-Projects.dir/CPP-Projects.cpp.o
+/usr/bin/ranlib libCPP-Projects.a
