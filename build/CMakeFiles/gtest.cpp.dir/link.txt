@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -Wall -Wextra -rdynamic CMakeFiles/gtest.cpp.dir/tests/gtest.cpp.o CMakeFiles/gtest.cpp.dir/src/Queue.cpp.o -o bin/gtest.cpp  libDataStructures.a /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

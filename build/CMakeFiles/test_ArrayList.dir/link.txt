@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -Wall -Wextra -rdynamic CMakeFiles/test_ArrayList.dir/tests/test_ArrayList.cpp.o CMakeFiles/test_ArrayList.dir/src/Queue.cpp.o -o bin/test_ArrayList  libDataStructures.a /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

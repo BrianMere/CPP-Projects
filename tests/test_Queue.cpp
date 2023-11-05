@@ -1,12 +1,10 @@
 #include "Queue.hpp"
-#include <iostream>//
+#include <iostream>
 
-// TEST CODE!!!
+// // TEST CODE!!!
 
 int main()
 {
-    
-
     Queue<int> q;
 
     q.push(1);
@@ -22,6 +20,8 @@ int main()
     r.push("Out");
 
     std::cout << r.pop() << std::endl;
+
+    ppi();
 
 
     exit(0);

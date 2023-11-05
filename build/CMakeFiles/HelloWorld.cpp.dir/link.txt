@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -Wall -Wextra -rdynamic CMakeFiles/HelloWorld.cpp.dir/tests/HelloWorld.cpp.o CMakeFiles/HelloWorld.cpp.dir/src/Queue.cpp.o -o bin/HelloWorld.cpp  libDataStructures.a /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

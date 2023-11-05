@@ -1,0 +1,3 @@
+// Add hidden hpp files you don't want to be includable externally here...
+
+#define BIGPI 3.14f

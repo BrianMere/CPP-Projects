@@ -1,7 +1,47 @@
 [
 {
   "directory": "/home/bmere/Repositories/CPP-Projects/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/CPP-Projects.dir/CPP-Projects.cpp.o -c /home/bmere/Repositories/CPP-Projects/CPP-Projects.cpp",
-  "file": "/home/bmere/Repositories/CPP-Projects/CPP-Projects.cpp"
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -I/home/bmere/Repositories/CPP-Projects/src -g -g -Wall -Wextra -o CMakeFiles/DataStructures.dir/src/Queue.cpp.o -c /home/bmere/Repositories/CPP-Projects/src/Queue.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/src/Queue.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/HelloWorld.dir/tests/HelloWorld.cpp.o -c /home/bmere/Repositories/CPP-Projects/tests/HelloWorld.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/tests/HelloWorld.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/HelloWorld.dir/src/Queue.cpp.o -c /home/bmere/Repositories/CPP-Projects/src/Queue.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/src/Queue.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest.dir/tests/gtest.cpp.o -c /home/bmere/Repositories/CPP-Projects/tests/gtest.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/tests/gtest.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest.dir/src/Queue.cpp.o -c /home/bmere/Repositories/CPP-Projects/src/Queue.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/src/Queue.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_ArrayList.dir/tests/test_ArrayList.cpp.o -c /home/bmere/Repositories/CPP-Projects/tests/test_ArrayList.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/tests/test_ArrayList.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_ArrayList.dir/src/Queue.cpp.o -c /home/bmere/Repositories/CPP-Projects/src/Queue.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/src/Queue.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_Queue.dir/tests/test_Queue.cpp.o -c /home/bmere/Repositories/CPP-Projects/tests/test_Queue.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/tests/test_Queue.cpp"
+},
+{
+  "directory": "/home/bmere/Repositories/CPP-Projects/build",
+  "command": "/usr/bin/g++  -I/home/bmere/Repositories/CPP-Projects/include/DataStructures -g -g -Wall -Wextra -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_Queue.dir/src/Queue.cpp.o -c /home/bmere/Repositories/CPP-Projects/src/Queue.cpp",
+  "file": "/home/bmere/Repositories/CPP-Projects/src/Queue.cpp"
 }
 ]
